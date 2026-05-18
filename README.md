@@ -1,4 +1,4 @@
-# super-geo-agent-readiness
+# Super Geo Agent Readiness
 
 A Claude Skill that covers Generative Engine Optimization (GEO) and agent readiness in one place. SEO targeted blue links. This skill targets the answers AI engines produce, and the agents that fetch and act on your content.
 
